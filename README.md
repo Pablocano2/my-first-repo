@@ -11,7 +11,7 @@ Dimecres 2 d'octubre de 2024.
 git add .
 ```
 ```bash
-git commit
+git commit -m "missatge"
 ```
 ```bash
 git push
